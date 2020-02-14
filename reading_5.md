@@ -4,7 +4,7 @@ symphonic		n		交响乐
 
 ​			n		宗教歌曲
 
-assimilate		v		吸收
+~~assimilate~~		v		吸收
 
 ~~proximity~~		n		临近,接近
 
@@ -18,5 +18,5 @@ asphalt		n		沥青,柏油
 
 predate		v		先于,早于
 
-patronage		n		赞助,惠顾
+~~patronage~~		n		赞助,惠顾
 

@@ -24,6 +24,7 @@ orthodox		adj		传统的,符合社会风俗的,正统的
 
 ~~contemporary~~		adj		现代的,当代的
 
-sediment		n		沉淀物,沉积
+~~sediment~~		n		沉淀物,沉积
 
-call into question		引起对...的怀疑
+~~call into question~~		引起对...的怀疑
+
