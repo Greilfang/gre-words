@@ -30,7 +30,7 @@ omniscience		n		重要性
 
 ~~opportunism~~		n		临时应变,机会主义
 
-benign		n		仁慈的,温和的,良性的
+~~benign~~		n		仁慈的,温和的,良性的
 
 ~~cede~~		v		割让,放弃
 

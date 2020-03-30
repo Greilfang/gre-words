@@ -8,7 +8,7 @@ dual		adj		双重的,两重的
 
 eclecticism		n		折中主义
 
-benign		adj		善良的,和山东
+benign		adj		善良的,和善的
 
 ​			v		缓和
 

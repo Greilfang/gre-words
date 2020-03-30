@@ -8,9 +8,9 @@ erroneous		adj		错误的
 
 eloquence		n		雄辩,有说服力
 
-deftness		n		灵巧,熟练,敏捷
+~~deftness~~		n		灵巧,熟练,敏捷
 
-monotony		n		单调
+~~monotony~~		n		单调
 
 quirkiness		n		诡诈,离奇
 

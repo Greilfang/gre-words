@@ -8,7 +8,7 @@ protagonist		n		主角
 
 sphere		n		领域
 
-promulgate		v		公布
+~~promulgate~~		v		公布
 
 ~~plead~~		v		请求,恳求
 
