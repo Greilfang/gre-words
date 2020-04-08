@@ -2,7 +2,7 @@
 
 haunted		adj		闹鬼的,令人害怕的
 
-meticulous		adj		一丝不苟的,过细的
+~~meticulous~~		adj		一丝不苟的,过细的
 
 ~~goosedump~~		n		鸡皮疙瘩
 

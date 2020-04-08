@@ -40,5 +40,5 @@ devious		adj		曲折的
 
 vestigial		adj		痕迹的,退化的
 
-intermediary		n		媒介物,居中者
+~~intermediary~~		n		媒介物,居中者
 

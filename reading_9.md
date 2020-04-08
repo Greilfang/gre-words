@@ -12,7 +12,7 @@ eloquence		n		雄辩,有说服力
 
 ~~monotony~~		n		单调
 
-quirkiness		n		诡诈,离奇
+~~quirkiness~~		n		诡诈,离奇
 
 preeminence		n		杰出,卓越
 
@@ -42,7 +42,7 @@ rationalize		v		使合理化
 
 censor		v		检查,审查
 
-suppress		v		镇压,抑制
+~~suppress~~		v		镇压,抑制
 
 ~~underscore~~		v		划线,强调
 

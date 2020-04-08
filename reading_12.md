@@ -34,7 +34,7 @@ convolute		v		弯曲,环绕
 
 presage = portend		v		预示
 
-forestall		v		预防
+~~forestall~~		v		预防
 
 ~~supplication=entreaty~~		n		恳求,祈求
 
