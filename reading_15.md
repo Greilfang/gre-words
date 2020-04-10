@@ -1,4 +1,4 @@
-weepy		adj		哭泣的
+~~weepy~~		adj		哭泣的
 
 sentimental		adj		感伤的
 
@@ -6,7 +6,7 @@ sentimental		adj		感伤的
 
 ~~pious~~		adj		虔诚的
 
-insipid		adj		平淡
+~~insipid~~		adj		平淡
 
 ~~reclamation~~		n		恢复,重建
 

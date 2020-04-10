@@ -4,7 +4,7 @@ envision		v		预见
 
 protoplanetary		原型星
 
-tug		v		拖
+~~tug~~		v		拖
 
 rob		v		抢夺
 
